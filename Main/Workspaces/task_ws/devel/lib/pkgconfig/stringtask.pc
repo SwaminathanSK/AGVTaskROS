@@ -1,0 +1,8 @@
+prefix=/home/swaminathan/Workspaces/task_ws/devel
+
+Name: stringtask
+Description: Description of stringtask
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

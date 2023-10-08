@@ -1,0 +1,6 @@
+devel_space: /home/swaminathan/Workspaces/smb_ex_2/devel
+install: false
+install_space: /home/swaminathan/Workspaces/smb_ex_2/install
+profile: default
+source_space: /home/swaminathan/Workspaces/smb_ex_2/src
+workspace: /home/swaminathan/Workspaces/smb_ex_2

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/swaminathan/Workspaces/smb_ws3/devel/.private/hector_sensors_gazebo/setup.sh

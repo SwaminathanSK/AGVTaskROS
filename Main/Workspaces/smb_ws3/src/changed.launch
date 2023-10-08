@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+	<include file = "$(find smb_gazebo)/launch/smb_gazebo.launch">
+		<arg name = "world_file" value = "$(find smb_gazebo)/worlds/singlePillar.world"/>
+		<arg name="laser_enabled" value="true"/>
+	</include>
+	
+	<node name="smb_highlevel_controller" pkg="smb_highlevel_controller" type="smb_highlevel_controller" output="screen">
+    <rosparam file="$(find smb_highlevel_controller)/config/config.yaml" command="load"/>
+  </node>
+</launch>
+
+

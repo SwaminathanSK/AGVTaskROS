@@ -1,0 +1,8 @@
+prefix=/home/swaminathan/Workspaces/task_ws2/devel
+
+Name: pub_noise
+Description: Description of pub_noise
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

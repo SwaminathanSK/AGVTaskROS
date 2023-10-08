@@ -1,0 +1,2 @@
+pub_noise:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/swaminathan/Workspaces/task_ws2/devel -DCMAKE_INSTALL_PREFIX=/home/swaminathan/Workspaces/task_ws2/install -G Unix Makefiles

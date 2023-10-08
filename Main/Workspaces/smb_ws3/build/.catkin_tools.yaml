@@ -1,0 +1,6 @@
+devel_space: /home/swaminathan/Workspaces/smb_ws3/devel
+install: false
+install_space: /home/swaminathan/Workspaces/smb_ws3/install
+profile: default
+source_space: /home/swaminathan/Workspaces/smb_ws3/src
+workspace: /home/swaminathan/Workspaces/smb_ws3
