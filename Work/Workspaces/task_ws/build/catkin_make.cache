@@ -1,2 +1,0 @@
-stringtask
--DCATKIN_DEVEL_PREFIX=/home/swaminathan/Workspaces/task_ws/devel -DCMAKE_INSTALL_PREFIX=/home/swaminathan/Workspaces/task_ws/install -G Unix Makefiles

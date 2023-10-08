@@ -1,1 +1,0 @@
-/home/swaminathan/Workspaces/smb_ex_2/devel/.private/smb_highlevel_controller/lib/pkgconfig/smb_highlevel_controller.pc

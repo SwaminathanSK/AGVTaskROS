@@ -1,1 +1,0 @@
-/home/swaminathan/Workspaces/smb_ws3/devel/.private/smb_description/lib/pkgconfig/smb_description.pc
